@@ -2,6 +2,11 @@
 
 A responsive image gallery built with React, TypeScript, and Tailwind CSS. Browse photos from the Unsplash API and manage your personal image collection.
 
+🚀 **Live Demo:** 
+
+[View Image Gallery](https://image-gallery-typescript-eta.vercel.app)
+
+
 ## Features
 
 - Fetch and display photos from the Unsplash API
